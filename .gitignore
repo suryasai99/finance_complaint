@@ -129,6 +129,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+finance_env/
 
 # Spyder project settings
 .spyderproject
